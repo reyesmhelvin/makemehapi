@@ -1,0 +1,21 @@
+{
+  "name": "hapi-nodeschool-tutorials",
+  "version": "1.0.0",
+  "description": "hapi for historya api",
+  "main": "index.js",
+  "dependencies": {
+    "h2o2": "^5.1.1",
+    "handlebars": "^4.0.5",
+    "hapi": "^15.0.3",
+    "inert": "^4.0.2",
+    "joi": "^9.0.4",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mor",
+  "license": "ISC"
+}
